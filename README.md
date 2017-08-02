@@ -2,7 +2,7 @@
 # Sentiment Analysis Text Classification using Bag of Words and TF-IDF models with K-Nearest Neighbor Algorithm
 ## Catelyn Scholl, John W. Sheppard
 
-This project was created for the NSF REU at Montanan State University in Bozeman Montana. This project determines a postive or negative sentiment based on the words in reviews.
+This project was created for the NSF REU 2017 at Montanan State University in Bozeman, Montana. This project determines a postive or negative sentiment based on the review text and utilizes either the bag of words model or tf-idf model in K Nearest Neighbor classification.
 
 
 This code uses Python 3.5.3 and I used Pycharm as the IDE. Both the project interpreter default settings and the configurations must be in Python 3.5.3. Several modules may need to be imported including: bs4, nltk, numpy, pandas, requests, scikit-learn, scipy, and sklearn. To import modules in Pycharm go to file -> default settings -> project interpreter -> plus symbol and enter the name of the module.
